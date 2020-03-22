@@ -1,0 +1,8 @@
+D:\Day User\Donation Project\DonationBackend\Donation.Domain\bin\Debug\netcoreapp3.1\Donation.Domain.deps.json
+D:\Day User\Donation Project\DonationBackend\Donation.Domain\bin\Debug\netcoreapp3.1\Donation.Domain.dll
+D:\Day User\Donation Project\DonationBackend\Donation.Domain\obj\Debug\netcoreapp3.1\Donation.Domain.AssemblyInfoInputs.cache
+D:\Day User\Donation Project\DonationBackend\Donation.Domain\obj\Debug\netcoreapp3.1\Donation.Domain.AssemblyInfo.cs
+D:\Day User\Donation Project\DonationBackend\Donation.Domain\bin\Debug\netcoreapp3.1\Donation.Domain.pdb
+D:\Day User\Donation Project\DonationBackend\Donation.Domain\obj\Debug\netcoreapp3.1\Donation.Domain.dll
+D:\Day User\Donation Project\DonationBackend\Donation.Domain\obj\Debug\netcoreapp3.1\Donation.Domain.pdb
+D:\Day User\Donation Project\DonationBackend\Donation.Domain\obj\Debug\netcoreapp3.1\Donation.Domain.csprojAssemblyReference.cache

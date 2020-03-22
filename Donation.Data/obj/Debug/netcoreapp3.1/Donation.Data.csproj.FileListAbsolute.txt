@@ -1,0 +1,11 @@
+D:\Day User\Donation Project\DonationBackend\Donation.Data\bin\Debug\netcoreapp3.1\Donation.Data.deps.json
+D:\Day User\Donation Project\DonationBackend\Donation.Data\bin\Debug\netcoreapp3.1\Donation.Data.dll
+D:\Day User\Donation Project\DonationBackend\Donation.Data\obj\Debug\netcoreapp3.1\Donation.Data.AssemblyInfoInputs.cache
+D:\Day User\Donation Project\DonationBackend\Donation.Data\obj\Debug\netcoreapp3.1\Donation.Data.AssemblyInfo.cs
+D:\Day User\Donation Project\DonationBackend\Donation.Data\obj\Debug\netcoreapp3.1\Donation.Data.csprojAssemblyReference.cache
+D:\Day User\Donation Project\DonationBackend\Donation.Data\bin\Debug\netcoreapp3.1\Donation.Domain.dll
+D:\Day User\Donation Project\DonationBackend\Donation.Data\bin\Debug\netcoreapp3.1\Donation.Data.pdb
+D:\Day User\Donation Project\DonationBackend\Donation.Data\bin\Debug\netcoreapp3.1\Donation.Domain.pdb
+D:\Day User\Donation Project\DonationBackend\Donation.Data\obj\Debug\netcoreapp3.1\Donation.Data.csproj.CopyComplete
+D:\Day User\Donation Project\DonationBackend\Donation.Data\obj\Debug\netcoreapp3.1\Donation.Data.dll
+D:\Day User\Donation Project\DonationBackend\Donation.Data\obj\Debug\netcoreapp3.1\Donation.Data.pdb

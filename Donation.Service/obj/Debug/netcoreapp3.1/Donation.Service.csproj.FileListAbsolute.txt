@@ -1,0 +1,15 @@
+D:\Day User\Donation Project\DonationBackend\Donation.Service\bin\Debug\netcoreapp3.1\Donation.Service.deps.json
+D:\Day User\Donation Project\DonationBackend\Donation.Service\bin\Debug\netcoreapp3.1\Donation.Service.dll
+D:\Day User\Donation Project\DonationBackend\Donation.Service\bin\Debug\netcoreapp3.1\Donation.Service.pdb
+D:\Day User\Donation Project\DonationBackend\Donation.Service\obj\Debug\netcoreapp3.1\Donation.Service.csprojAssemblyReference.cache
+D:\Day User\Donation Project\DonationBackend\Donation.Service\obj\Debug\netcoreapp3.1\Donation.Service.AssemblyInfoInputs.cache
+D:\Day User\Donation Project\DonationBackend\Donation.Service\obj\Debug\netcoreapp3.1\Donation.Service.AssemblyInfo.cs
+D:\Day User\Donation Project\DonationBackend\Donation.Service\obj\Debug\netcoreapp3.1\Donation.Service.dll
+D:\Day User\Donation Project\DonationBackend\Donation.Service\obj\Debug\netcoreapp3.1\Donation.Service.pdb
+D:\Day User\Donation Project\DonationBackend\Donation.Service\bin\Debug\netcoreapp3.1\Donation.Common.dll
+D:\Day User\Donation Project\DonationBackend\Donation.Service\bin\Debug\netcoreapp3.1\Donation.Data.dll
+D:\Day User\Donation Project\DonationBackend\Donation.Service\bin\Debug\netcoreapp3.1\Donation.Domain.dll
+D:\Day User\Donation Project\DonationBackend\Donation.Service\bin\Debug\netcoreapp3.1\Donation.Common.pdb
+D:\Day User\Donation Project\DonationBackend\Donation.Service\bin\Debug\netcoreapp3.1\Donation.Data.pdb
+D:\Day User\Donation Project\DonationBackend\Donation.Service\bin\Debug\netcoreapp3.1\Donation.Domain.pdb
+D:\Day User\Donation Project\DonationBackend\Donation.Service\obj\Debug\netcoreapp3.1\Donation.Service.csproj.CopyComplete
